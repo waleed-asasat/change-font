@@ -1,0 +1,21 @@
+<odoo>
+    <data>
+        <!-- Uncomment this to be able to change font through preferences window -->
+        
+<!--        <record id="change_pref" model="ir.ui.view">-->
+<!--            <field name="name">change.preferences</field>-->
+<!--            <field name="model">res.users</field>-->
+
+<!--            <field name="inherit_id" ref="base.view_users_form_simple_modif"/>-->
+
+
+<!--            <field name="arch" type="xml">-->
+<!--                <xpath expr="//group[@name='preferences']" position="inside">-->
+<!--                    <group>-->
+<!--                        <field name="font_family"/>-->
+<!--                    </group>-->
+<!--                </xpath>-->
+<!--            </field>-->
+<!--        </record>-->
+    </data>
+</odoo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="change_font.script" name="ChangeFont Inherit" inherit_id="website.assets_backend">
+        <xpath expr="script[last()]" position="after">
+            <script src="/change_font/static/js/app.js"/>
+        </xpath>
+    </template>
+</odoo>
